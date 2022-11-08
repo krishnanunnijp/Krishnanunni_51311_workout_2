@@ -1,6 +1,6 @@
 package Qn4.MedicineManagement;
 
-public class Syrup extends MedicineCompany {
+class Syrup extends MedicineCompany {
     private String additionalInfo;
 
     public Syrup(String companyName, String[] companyAddresses) {

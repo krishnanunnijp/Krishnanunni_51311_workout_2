@@ -1,6 +1,6 @@
 package Qn4.MedicineManagement;
 
-public class MedicineCompany {
+class MedicineCompany {
     private String companyName;
     private String[] companyAddresses = new String[4];
 
