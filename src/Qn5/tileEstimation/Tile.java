@@ -1,6 +1,6 @@
 package Qn5.tileEstimation;
 
-public class Tile {
+class Tile {
 private double edgeLength;
 Tile(double edgeLength){
     this.edgeLength=edgeLength;

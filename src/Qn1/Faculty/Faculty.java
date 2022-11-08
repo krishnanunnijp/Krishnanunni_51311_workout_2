@@ -1,6 +1,6 @@
 package Qn1.Faculty;
 
-public class Faculty {
+class Faculty {
     private int facultyId;
     private double salary;
     Faculty(int facultyId,double salary){

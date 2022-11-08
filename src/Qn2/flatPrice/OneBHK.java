@@ -1,6 +1,6 @@
 package Qn2.flatPrice;
 
-public  class OneBHK {
+class OneBHK {
     private double roomArea;
     private double hallArea;
     private long price;

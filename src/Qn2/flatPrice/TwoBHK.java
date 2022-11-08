@@ -1,6 +1,6 @@
 package Qn2.flatPrice;
 
-public class TwoBHK extends OneBHK {
+class TwoBHK extends OneBHK {
     private double room2Area;
     public TwoBHK() {
 

@@ -1,6 +1,6 @@
 package Qn5.tileEstimation;
 
-public class Floor {
+ class Floor {
     private double length;
     private double breadth;
     Floor(double length,double breadth){

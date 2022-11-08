@@ -1,6 +1,6 @@
 package Qn1.Faculty;
 
-public class FullTimeFaculty extends Faculty {
+class FullTimeFaculty extends Faculty {
     private double basic;
     private double allowance;
 
