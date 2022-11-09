@@ -1,10 +1,10 @@
 package Qn6.employeeManagement;
 
 class Employee {
-    String Name;
-    int EmpId;
-    String result;
-    double ass1 = -1, ass2 = -1, ass3 = -1;
+    private String Name;
+    private int EmpId;
+    private String result;
+    private double ass1 = -1, ass2 = -1, ass3 = -1;
 
     public Employee(String name, int EmpId) {
         this.Name = name;
